@@ -135,7 +135,7 @@ For new features, components, or extensions, please open an issue and discuss be
 
 ---
 
-## 💖 This project exists in its current state thanks to all the people who contribute
+## 💖 This project exists in its current state thanks to all the people who contribute. 
 
 <a href="https://github.com/danny-avila/LibreChat/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=danny-avila/LibreChat" />
